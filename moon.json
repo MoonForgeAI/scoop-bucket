@@ -1,26 +1,26 @@
 {
-    "version": "0.19.1",
+    "version": "0.19.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/MoonForgeAI/moon/releases/download/v0.19.1/moon_0.19.1_Windows_i386.zip",
+            "url": "https://github.com/MoonForgeAI/moon/releases/download/v0.19.2/moon_0.19.2_Windows_i386.zip",
             "bin": [
-                "moon_0.19.1_Windows_i386/moon.exe"
+                "moon_0.19.2_Windows_i386/moon.exe"
             ],
-            "hash": "ef80ea20170743c209bf047056d9555a20665c8cae28579c5d5738609cb1116d"
+            "hash": "6792ec48c4d42d7644befd3bfb22b55fc2a7361f0ef8c4fcf624e7ea198f3c01"
         },
         "64bit": {
-            "url": "https://github.com/MoonForgeAI/moon/releases/download/v0.19.1/moon_0.19.1_Windows_x86_64.zip",
+            "url": "https://github.com/MoonForgeAI/moon/releases/download/v0.19.2/moon_0.19.2_Windows_x86_64.zip",
             "bin": [
-                "moon_0.19.1_Windows_x86_64/moon.exe"
+                "moon_0.19.2_Windows_x86_64/moon.exe"
             ],
-            "hash": "97a10091cd49fb1bf2e1bca3f8be11e6d3558b8fec04f9b5dbb644e7edeea595"
+            "hash": "0465958bec11684c2a3178216bb41211b77379b168117b112e70be02bad3ab71"
         },
         "arm64": {
-            "url": "https://github.com/MoonForgeAI/moon/releases/download/v0.19.1/moon_0.19.1_Windows_arm64.zip",
+            "url": "https://github.com/MoonForgeAI/moon/releases/download/v0.19.2/moon_0.19.2_Windows_arm64.zip",
             "bin": [
-                "moon_0.19.1_Windows_arm64/moon.exe"
+                "moon_0.19.2_Windows_arm64/moon.exe"
             ],
-            "hash": "d04328fef91c27d4dbdceeeebd78c6c0da377830ba7bc6c56ad4681dc83fb8db"
+            "hash": "35541185c097a0801f72b07cc752304617d72cb8e41f6d6a6eaf322fb11f9826"
         }
     },
     "homepage": "https://moonforge.com",
