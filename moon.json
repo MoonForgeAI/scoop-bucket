@@ -1,0 +1,29 @@
+{
+    "version": "0.19.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/MoonForgeAI/moon/releases/download/v0.19.1/moon_0.19.1_Windows_i386.zip",
+            "bin": [
+                "moon_0.19.1_Windows_i386/moon.exe"
+            ],
+            "hash": "8768bfa12e1a719ff11bd17992855891c0296d0c28b650006869324d2d263c2b"
+        },
+        "64bit": {
+            "url": "https://github.com/MoonForgeAI/moon/releases/download/v0.19.1/moon_0.19.1_Windows_x86_64.zip",
+            "bin": [
+                "moon_0.19.1_Windows_x86_64/moon.exe"
+            ],
+            "hash": "09bc2eafb283d588b10fdc03e79533bfe416823dfb0d05867704ff56021d40eb"
+        },
+        "arm64": {
+            "url": "https://github.com/MoonForgeAI/moon/releases/download/v0.19.1/moon_0.19.1_Windows_arm64.zip",
+            "bin": [
+                "moon_0.19.1_Windows_arm64/moon.exe"
+            ],
+            "hash": "46d9b8e343434616c4a6c3f61596ffe47b283117fc1749a82c0b93879bf24db4"
+        }
+    },
+    "homepage": "https://moonforge.com",
+    "license": "FSL-1.1-MIT",
+    "description": "A powerful game development AI agent that can build complete games from scratch. Expert in Unity, Unreal Engine, and Godot."
+}
