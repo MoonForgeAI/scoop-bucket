@@ -6,21 +6,21 @@
             "bin": [
                 "moon_0.19.4_Windows_i386/moon.exe"
             ],
-            "hash": "93e044135a4b8509f9b49ea288c1fd765259d5cbae7a60328c5c7ade343c03e4"
+            "hash": "017c604443c25df950fc9b5116d9354800d2a517dbd622c5a2e2cbe51a409c86"
         },
         "64bit": {
             "url": "https://github.com/MoonForgeAI/moon/releases/download/v0.19.4/moon_0.19.4_Windows_x86_64.zip",
             "bin": [
                 "moon_0.19.4_Windows_x86_64/moon.exe"
             ],
-            "hash": "d4a18251007532a9d215a6eb858bb75a02afac7e9fa1405504d389b1fa2a72a8"
+            "hash": "253dddecb3664f792080faa8db4c87ee02deb0645352f0c8be4394bf46d469a7"
         },
         "arm64": {
             "url": "https://github.com/MoonForgeAI/moon/releases/download/v0.19.4/moon_0.19.4_Windows_arm64.zip",
             "bin": [
                 "moon_0.19.4_Windows_arm64/moon.exe"
             ],
-            "hash": "8e20ed54d57713bccee05d1d0bc51fc344a080668fc61e74098e338d137aeec5"
+            "hash": "10bfe284617cbfa9264d48d20e0b24a81d0b464aec947d6e6e12fc4b9c585ebc"
         }
     },
     "homepage": "https://moonforge.com",
